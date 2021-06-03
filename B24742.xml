@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices and council, a proclamation. Charles Porter, Tho: Coningesby. Whereas many and great inconveniencies do arise from the irregular granting of protections, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24742</idno><idno type="EEBO-CITATION">99886519</idno>
+  <idno type="VID">186739</idno>
+  <idno type="EEBO-PROQUEST">2240890967</idno>
+  
+            <idno type="STC">Wing I457</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[30]</idno>
+            <idno type="STC">ESTC R226123</idno>
+            <idno type="PROQUEST">ocm99886519</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886519e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186739)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices and council, a proclamation. Charles Porter, Tho: Coningesby. Whereas many and great inconveniencies do arise from the irregular granting of protections, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at their Majesties printing-house on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at the Council-Chamber, the 24th day of February, 1690.".</note>
+                  <note>Voiding protections not granted by the General Commander.--Steele.</note>
+                  <note>Steele notation: Arms 199. arise thers 2) them, Protection.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186739:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+                  <q xml:lang="frm">HONI SOIT QVI <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Y <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="frm">JE MEINTIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE Lords-Justices AND COUNCIL, A PROCLAMATION.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>THO: CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many and great Inconveniencies do arise from the Irregular granting of Protections, some being granted by such Persons who are no way Authorized thereunto, and others being ob<g ref="char:EOLhyphen"/>tained by Surprize, for Persons upon feigned Submissions, who since have Forfeited Their Ma<g ref="char:EOLhyphen"/>jesties Favour by their many Offences against Their Majesties Laws, whereby it comes to pass that many who are designed to be Protected, and would live quietly under Their Majesties Govern<g ref="char:EOLhyphen"/>ment, have not had the benefit of them, whilst o<g ref="char:EOLhyphen"/>thers that were Spies &amp; Traytors have been shel<g ref="char:EOLhyphen"/>tred under the pretence of Protections, and have thereby found Opportuni<g ref="char:EOLhyphen"/>ties of committing Robberies, Murthers, and divers other Horrible Crimes. For the prevention of the like Mischiefs and Inconveniencies for the future, We have thought fit hereby to Declare, That all former Protections, except such as were granted by the General of Their Majesties Army for the time being, or by Their Majesties Principal Secretary of State for this King<g ref="char:EOLhyphen"/>dom, or Secretary at War, shall be, and are hereby Superseded, and ut<g ref="char:EOLhyphen"/>terly void, from and after the end of the next Assizes, to be held in the several Counties of this Kingdom, respectively. And to the end that all those who Intend to behave themselves as good Subjects, and live peaceably under Their Majesties Happy Government, may partake of that Grace and Mer<g ref="char:EOLhyphen"/>cy, which Their Majesties are Graciously pleased to extend to all Their Sub<g ref="char:EOLhyphen"/>jects, of what Persuasion or Religion soever they be, that will return to their Duty, and become amesnable to Law: We have Impowered and Au<g ref="char:EOLhyphen"/>thorized
+<pb facs="tcp:186739:2"/> the Iudges of Assize in their respective Circuits, or either of them, to Grant Peotections under their Hands and Seals respectively, for the Per<g ref="char:EOLhyphen"/>son, Wife, Children, House and Personal Estate of all such as shall submit to Their Majesties Government, and Surrender their Swords, Guns, or other Arms and Ammunition, and take the following Oath, <hi>viz. I <hi>A. B.</hi> do Sincerely promise and Swear, that I will be Faithfull and bear true Allegiance to Their Majesties King <hi>William</hi> and Queen <hi>Mary.</hi> So help me God, <hi>&amp;c.</hi>
+               </hi> And We do hereby Declare, that all Protections so to be given as aforesaid, shall be kept Inviolable, and that We will Prosecute with the utmost Severity all those that shall Violate or Infringe the same. And We do hereby Order, that a List of the Protected Persons in each County be left with the Sheriffs of the respective Counties, and a Duplicate thereof returned to Vs; And that every Constable have likewise a List of the Protected Persons in his Parish, delivered him by the Sheriffs respectively, that so those that are pro<g ref="char:EOLhyphen"/>tected, may be distinguished from Spies and Rebels, and be the better pre<g ref="char:EOLhyphen"/>served in their Properties; And that no person shall pay more than Six-pence for the Writing, Signing, Sealing and Registring any Protection for himself, his Wife and Children, living with him as aforesaid.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber, <date>the 24th day of <hi>February,</hi> 1690. And in the Third Year of Their Majesties Reign.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Fran. Dublin,</item>
+                     <item>Meath,</item>
+                     <item>Longford,</item>
+                     <item>Rob. Fits-Gerald,</item>
+                     <item>Char: Meredith,</item>
+                     <item>Jn<seg rend="sup">o</seg> Hely,</item>
+                     <item>Hen. Fane.</item>
+                  </list>
+               </signed>
+               <lb/> God save the KING and QUEEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke</hi> Printer to the King and Queen at Their Majesties Printing-house on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
